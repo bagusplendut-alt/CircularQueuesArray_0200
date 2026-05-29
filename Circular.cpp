@@ -105,3 +105,5 @@ public:
                 cout << queue_array[FRONT_Position] << " ";
                 FRONT_Position++;
             }
+        
+             FRONT_Position = 0;
